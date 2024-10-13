@@ -34,8 +34,31 @@ There are no specific requirements that qualify you to participate, but the foll
 - Create and Write articles related to Open Source and CHAOSS Projects ( Examples: Tools Onboarding Docs, Feature and Tool Highlight etc) 
 - Share, Comments and Support Posts that involves Doc Scavenger
 
+**Issue Submission** \
+The following are curated guidelines to submit your issue 
+- Indicate your interest and expected timeline through comments on your preferred issue 
+- Provide a link to your feedback using the comment of the issue 
+- Tag a reviwer to take a look and provide feedback or accept your submission 
+- Ensure to include your prefered social handle and Name if you want to be given credits 
+
+**Support | Reviwer's** \
+Need Support or Someone to review your submission? \
+Do well to mention any of the following Id in the comment:
+[Harmony Elendu](https://github.com/harmonyelendu), [Sophia Ugochukwu](https://github.com/sophiaUgo), [Busayo Ojo](https://github.com/busayo-ojo), [Precious Abubakar](https://github.com/misspee007)
+
 **Tools and Applications** 
 - Zoom: For the Virtual workshop hosting
 - Slack: Communication Center and conversation
 - Github: Contributions, Issue creations and tracking
+
+**Technical Writing Resources** 
+The following are direct links provided for you!
+- [The Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list)
+- [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)
+- [Google Technical Writing Courses](https://developers.google.com/tech-writing)
+- [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+- [Techncial Writing A to Z](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
+- [Learn API Documentation](https://idratherbewriting.com/learnapidoc/)
+- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+- [Technical Article Guideline Template](https://github.com/iamfortune/Technical-Article-Guideline-Template)
  
